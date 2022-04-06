@@ -32,5 +32,5 @@ Contents
 
 .. toctree::
    
-   api
+   Resources
    usage
