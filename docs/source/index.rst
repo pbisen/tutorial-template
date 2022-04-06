@@ -32,5 +32,5 @@ Contents
 
 .. toctree::
    
-   Beginners - Start Here
+   api
    Projects
