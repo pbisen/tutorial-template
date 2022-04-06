@@ -1,4 +1,4 @@
-Blockchain@BITS
+Blockchain @ BITS
 ===================================
 
 The main goals of society are:
