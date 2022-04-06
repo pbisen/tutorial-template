@@ -1,4 +1,4 @@
-Welcome to Blockchain Society @ BITS Pilani
+Blockchain@BITS
 ===================================
 
 The main goals of society are:
