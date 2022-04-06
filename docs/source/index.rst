@@ -1,4 +1,4 @@
-Blockchain @ BITS
+Blockchain @ BITS Pilani
 ===================================
 
 The main goals of society are:
