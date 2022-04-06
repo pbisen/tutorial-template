@@ -1,7 +1,8 @@
 Resources
 ===========
 
-### Pre-existing Collections
+Pre-existing Collections
+------------------------
 
 1. [useWeb3]{https://www.useweb3.xyz/}
    One of most extensive collection focussed on beginner-friendly resources.
